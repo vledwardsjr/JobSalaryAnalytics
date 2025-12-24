@@ -1,50 +1,62 @@
-# Job Salary Analytics Dashboard
+# Job Salary Analytics — SQL Analysis
 
-A data analytics project analyzing real job posting data to identify
-salary trends across data-focused roles, locations, experience levels,
-and required technical skills.
+A data analytics project using SQL to analyze job posting data and identify
+compensation trends, high-paying roles, and in-demand technical skills across
+DMV and non-DMV regions.
 
-The dashboard presents insights through structured analysis and
-interactive visualizations to support data-driven career decisions.
+The analysis focuses on understanding how role type, location, and skill
+requirements influence salary outcomes in data-focused positions.
 
 ---
 
-## Core Analysis Areas
+## Analysis Scope
 
-- Salary distributions by job role and experience level
-- Geographic compensation trends
-- Skill demand and its impact on salary
-- Comparison of remote versus on-site roles
+- Comparison of salary ranges between DMV and non-DMV job markets
+- Identification of top-paying roles across regions
+- Analysis of the most in-demand technical skills
+- Evaluation of skill combinations commonly associated with higher salaries
+- Cross-analysis of job roles and their most frequently required skills
+
+---
+
+## Key Insights
+
+- Certain roles consistently command higher compensation regardless of region
+- The DMV region shows stronger demand for specific technical skill sets
+- Higher-paying positions tend to require overlapping core skills
+- Skill specialization is strongly correlated with salary increases
 
 ---
 
 ## Technical Stack
 
-- Excel
-- Data Cleaning and Transformation
+- SQL
+- Data Aggregation and Joins
+- Filtering and Window Functions
+- Analytical Queries
 
 ---
 
-## Design Focus
+## Methodology
 
-This project emphasizes:
-- Structured data cleaning and preparation
-- Analytical reasoning over raw visualization
-- Clear communication of insights through dashboards
-- Reproducible analysis workflows
+- Cleaned and normalized raw job posting data
+- Segmented data by geographic region (DMV vs non-DMV)
+- Applied SQL queries to aggregate salary metrics by role and skill
+- Ranked roles and skills using statistical measures
+- Validated trends through comparative analysis
 
 ---
 
 ## Use Case
 
-Built to explore how labor market data can inform career planning and
-salary expectations while demonstrating practical data analytics skills
-used in industry settings.
+Built to demonstrate practical SQL analytics skills and the ability to extract
+actionable insights from real-world labor market data, supporting data-driven
+career and compensation decisions.
 
 ---
 
 ## Project Status
 
 Complete.  
-Dataset and dashboard structure allow for future expansion with
-additional roles, regions, or time-based trends.
+Structured to allow future expansion with additional regions, roles, or time-based analysis.
+
