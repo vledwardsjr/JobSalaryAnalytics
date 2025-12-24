@@ -1,18 +1,18 @@
-# Job Salary Analytics — SQL Analysis
+# Job Salary Analytics — SQL & Excel Analysis
 
-A data analytics project using SQL to analyze job posting data and identify
-compensation trends, high-paying roles, and in-demand technical skills across
-DMV and non-DMV regions.
+A data analytics project analyzing job posting data using SQL and Excel to
+identify compensation trends, high-paying roles, and in-demand technical skills
+across DMV and non-DMV job markets.
 
-The analysis focuses on understanding how role type, location, and skill
+The analysis focuses on how role type, geographic location, and skill
 requirements influence salary outcomes in data-focused positions.
 
 ---
 
 ## Analysis Scope
 
-- Comparison of salary ranges between DMV and non-DMV job markets
-- Identification of top-paying roles across regions
+- Comparison of salary distributions between DMV and non-DMV regions
+- Identification of top-paying roles across locations
 - Analysis of the most in-demand technical skills
 - Evaluation of skill combinations commonly associated with higher salaries
 - Cross-analysis of job roles and their most frequently required skills
@@ -21,42 +21,34 @@ requirements influence salary outcomes in data-focused positions.
 
 ## Key Insights
 
-- Certain roles consistently command higher compensation regardless of region
-- The DMV region shows stronger demand for specific technical skill sets
-- Higher-paying positions tend to require overlapping core skills
-- Skill specialization is strongly correlated with salary increases
+- Certain roles consistently command higher compensation across regions
+- The DMV region exhibits stronger demand for specific technical skill sets
+- Higher-paying roles tend to require overlapping core skills
+- Skill specialization is strongly correlated with increased salary ranges
 
 ---
 
 ## Technical Stack
 
 - SQL
-- Data Aggregation and Joins
-- Filtering and Window Functions
-- Analytical Queries
+- Excel (data cleaning, aggregation, analysis)
+- Relational Data Analysis
+- Analytical Query Design
 
 ---
 
 ## Methodology
 
-- Cleaned and normalized raw job posting data
-- Segmented data by geographic region (DMV vs non-DMV)
-- Applied SQL queries to aggregate salary metrics by role and skill
-- Ranked roles and skills using statistical measures
-- Validated trends through comparative analysis
+- Cleaned and standardized raw job posting data
+- Segmented records by geographic region (DMV vs non-DMV)
+- Used SQL to aggregate, filter, and rank salary and skill data
+- Leveraged Excel for exploratory analysis and validation
+- Compared role and skill patterns across regions
 
 ---
 
 ## Use Case
 
-Built to demonstrate practical SQL analytics skills and the ability to extract
-actionable insights from real-world labor market data, supporting data-driven
-career and compensation decisions.
-
----
-
-## Project Status
-
-Complete.  
-Structured to allow future expansion with additional regions, roles, or time-based analysis.
-
+Built to demonstrate practical SQL and Excel analytics skills and the ability to
+extract actionable insights from real-world labor market data to support
+data-driven career and com
