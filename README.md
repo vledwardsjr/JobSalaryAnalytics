@@ -51,4 +51,5 @@ requirements influence salary outcomes in data-focused positions.
 
 Built to demonstrate practical SQL and Excel analytics skills and the ability to
 extract actionable insights from real-world labor market data to support
-data-driven career and com
+data-driven career and compensation decisions for job seekers and analysts
+evaluating the data job market.
